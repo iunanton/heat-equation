@@ -19,7 +19,7 @@ void print(array A, double t)
 
 int main()
 {
-//Математическое моделирование нагрева золотой проволоки, припаянной к алюминиевому выводу микросхемы
+//Mathematical modeling of heating of the gold wire soldered to the aluminum terminal of the microchip
 	printf("안녕하세요!=)\n");
 	array Ma, Mb;
 	int k = 0;
